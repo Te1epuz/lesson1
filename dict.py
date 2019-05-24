@@ -6,7 +6,7 @@ print(a)
 
 print(a.get('country'))
 
-a.get('country', 'Россия')
+print(a.get('country', 'Россия'))
 
 a['date']='27.05.2019'
 
